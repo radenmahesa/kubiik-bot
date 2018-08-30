@@ -1,0 +1,2 @@
+# kubiik-bot
+For education
